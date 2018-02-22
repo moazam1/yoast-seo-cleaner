@@ -1,0 +1,20 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.ysc-badge {
+    padding: 3px 6px;
+    font-weight: bold;
+    font-size: 11px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.ysc-success {
+    background-color: green;
+}
+
+.ysc-error {
+    background-color: red;
+}
