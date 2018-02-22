@@ -11,7 +11,6 @@ class Yoast_Seo_Optimizer {
 
 	public function ysc_cleanup_admin_action() {
 		$this->do_cleanup();
-		dd(get_option('activate_yoast_seo_cron_job'));
 		wp_redirect( $_SERVER['HTTP_REFERER'] . '&updated=1');
 		exit();
 	}
