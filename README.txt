@@ -14,7 +14,3 @@ Cleans up your WP options table by removing Yoast SEO "_cache_validator" entries
 Cleans up your WP options table by removing Yoast SEO "_cache_validator" entries.
 
 This plugin will be maintained until Yoast SEO plugin cleans up it's mess.
-
-== Screenshots ==
-
-1. Plugin settings page screenshot-1.png.
