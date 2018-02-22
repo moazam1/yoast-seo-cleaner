@@ -1,6 +1,5 @@
 === Yoast SEO Cleaner ===
 Contributors: moazam
-Donate link: http://isolution.org
 Tags: yoast, seo
 Requires at least: 3.0.1
 Tested up to: 3.4
