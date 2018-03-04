@@ -22,7 +22,7 @@ class Yoast_Seo_Optimizer {
 		}
 	}
 
-	private function do_cleanup () {
+	public function do_cleanup () {
 		global $wpdb;
 		$query = "DELETE FROM $wpdb->options WHERE option_name LIKE %s";
 		$wpdb->query( $wpdb->prepare( $query, '%_cache_validator' ) );

@@ -4,14 +4,14 @@
 
  *
  * @link              http://isolution.org
- * @since             1.0.0
+ * @since             1.0.1
  * @package           Yoast_Seo_Cleaner
  *
  * @wordpress-plugin
  * Plugin Name:       Yoast SEO Cleaner
  * Plugin URI:        https://github.com/moazam1/yoast-seo-cleaner
  * Description:       Cleans up your WP options table by removing Yoast SEO "_cache_validator" entries.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Moazam Nabi
  * Author URI:        http://isolution.org
  * License:           GPL-2.0+
